@@ -10,6 +10,7 @@ It is the script which automatically tells whether the product on the e-commerce
   
 ## HOW TO USE?
 * Make a empty container folder
+* Make sure you have positive.txt and negative.txt in the same directory as of script.
 * Now, We have to train the model for which we have to run picklingScript.py. It will take around 10-15 mins.
 ''' python3 picklingScript.py
 '''
